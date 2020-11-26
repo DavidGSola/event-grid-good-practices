@@ -1,2 +1,2 @@
-# event-grid-good-practices
-Samples about good practices and tips for Azure Event Grid.
+# Event Grid: Good practices and tips
+Code samples about good practices and tips for Azure Event Grid.
